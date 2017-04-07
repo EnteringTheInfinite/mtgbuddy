@@ -33,7 +33,7 @@ while True:
 	counter = 0
 	
 	while counter != len(players):
-		#Reiterate life totals and poison counters
+		#Reiterate life totals. poison, and XP counters
 		print("Player", str(counter + 1) + ":", players[counter] + ":", life[counter], "life", poison[counter], "poison", xp[counter], "XP")
 		counter += 1
 	
