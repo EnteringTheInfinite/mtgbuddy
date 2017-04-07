@@ -1,5 +1,5 @@
 # mtgbuddy
-A basic tool to assist with managment of MTG games
+A basic tool to assist with managment of MTG games, using Python 3.4
 
 This is version 1, I "plan" to add more features as time goes on and I have nothing to do.
 Here's a roadmap;
