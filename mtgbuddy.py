@@ -37,7 +37,7 @@ while True:
 		print("Player", str(counter + 1) + ":", players[counter] + ":", life[counter], "life", poison[counter], "poison", xp[counter], "XP")
 		counter += 1
 	
-	counter = 0 #Make 
+	counter = 0 #Make sure that this gets reset
 	
 	com = input("Change [L]ife totals, add [P]oison counters, add [E]xperience counters, [R]oll dice, or [Q]uit? ")
 	com = com.lower()
